@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537389847 source:d:\code bloks\em\vending_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1537390953 source:f:\projects\code bloks\em\vending_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
